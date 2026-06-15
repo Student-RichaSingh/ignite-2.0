@@ -21,7 +21,7 @@ int main() {
     }
 
     int count = 0;
-    for (int i = 0; i <= n - 3; i++) {
+    for (int i = 0; i < n; i++) {
         if (isPrime(arr[i])) {
             count++;
             if (count == 3) {
