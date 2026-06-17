@@ -1,6 +1,6 @@
 # 🌐 Web Development - Assignment Submission Guide
 
-Welcome to the **Web Development Domain** of **IGNITE'25**! 🚀
+Welcome to the **Web Development Domain** of **IGNITE'26**! 🚀
 
 This domain is designed to help you become a modern frontend developer by building projects using industry-standard technologies. Throughout the program, you'll learn everything from web fundamentals to building dynamic applications with React.
 
@@ -25,46 +25,11 @@ Each assignment folder contains a `questions.md` file with detailed instructions
 
 ---
 
-## 🎯 Learning Objectives
-
-Throughout this domain, you will learn:
-
-### 🌐 Web Fundamentals
-
-* HTML5
-* CSS3
-* Responsive Web Design
-* JavaScript (ES6+)
-* DOM Manipulation
-
-### ⚛️ React Development
-
-* React Fundamentals
-* JSX
-* Components & Props
-* State Management
-* React Hooks (`useState`, `useEffect`, etc.)
-* Event Handling
-* Forms in React
-* React Router
-* API Integration
-* Project Structuring
-
-### 🛠️ Development Workflow
-
-* Git & GitHub
-* Version Control
-* Pull Requests
-* Collaborative Development
-* Clean Code Practices
-
----
-
 ## ✅ Submission Instructions
 
 ### Step 1: Fork the Repository
 
-Before starting any assignment, fork the IGNITE'25 repository to your GitHub account.
+Before starting any assignment, fork the IGNITE'26 repository to your GitHub account.
 
 1. Open the repository.
 2. Click the **Fork** button in the top-right corner.
@@ -75,8 +40,8 @@ Before starting any assignment, fork the IGNITE'25 repository to your GitHub acc
 ### Step 2: Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/IGNITE-25.git
-cd IGNITE-25
+git clone https://github.com/<your-username>/ignite-2.0/.git
+cd ignite-2.0
 ```
 
 ---
@@ -105,7 +70,7 @@ NAME_ROLLNO
 Example:
 
 ```text
-ABHINAV_2301234
+ABHINAV_23012
 ```
 
 ---
@@ -161,14 +126,6 @@ Use the following format:
 ```text
 Assignment X - Web Dev - Your Name
 ```
-
-Example:
-
-```text
-Assignment 1 - Web Dev - Abhinav Kumar Choubey
-```
-
----
 
 ## 📝 Pull Request Description
 
