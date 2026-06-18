@@ -38,6 +38,11 @@ git commit -m "message"
 
 I used this command frequently because it saves changes to the repository with a meaningful message. Commits help keep track of progress and make it easier to understand what changes were made at different stages of development.
 
+## Technologies Used
 
+* HTML5
+* CSS3
+* Flexbox
+* Media Queries
 
 
